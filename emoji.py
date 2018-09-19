@@ -1,0 +1,11 @@
+hand = '\U0001F44B'
+tv = '\U0001F4FA'
+apple = '\U0001F34F'
+play = '\U000025B6'
+stop = '\U000026D4'
+info = '\U00002139'
+rigtharrow = '\U000027A1'
+calendar = '\U0001F4C5'
+check = '\U00002714'
+party = '\U0001F389'
+
